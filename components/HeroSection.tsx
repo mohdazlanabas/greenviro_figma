@@ -1,6 +1,7 @@
 import { Button } from './ui/button';
 import { ArrowRight, Play } from 'lucide-react';
 import { ImageWithFallback } from './figma/ImageWithFallback';
+import heroImage from '../images/lsspv4.png';
 
 export function HeroSection() {
   return (
@@ -71,7 +72,7 @@ export function HeroSection() {
           <div className="relative">
             <div className="relative z-10">
               <ImageWithFallback
-                src="lsspv4.png"
+                src={heroImage}
                 alt="Environmental solutions and sustainability"
                 className="rounded-2xl shadow-2xl w-full h-auto"
               />
