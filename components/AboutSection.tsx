@@ -21,11 +21,11 @@ const achievements = [
 ];
 
 const benefits = [
-  'Reduce environmental impact by up to 80%',
+  'Reduce environmental impact and balance carbon emmisions',
   'Achieve regulatory compliance effortlessly',
-  '24/7 monitoring and support services',
+  'Finance, Deisgn, Build, Manage, and Operate',
   'Cost-effective sustainable solutions',
-  'Proven track record with Fortune 500 companies'
+  'Proven track record with full finanancial and project closures'
 ];
 
 export function AboutSection() {
