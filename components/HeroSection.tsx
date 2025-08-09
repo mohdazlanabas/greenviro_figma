@@ -53,16 +53,16 @@ export function HeroSection() {
             {/* Stats */}
             <div className="grid grid-cols-3 gap-8 pt-8 border-t border-gray-200">
               <div className="text-center">
-                <div className="text-2xl text-primary">500+</div>
-                <div className="text-sm text-gray-600">Projects Completed</div>
+                <div className="text-2xl text-primary">700+</div>
+                <div className="text-sm text-gray-600">GWh Renewable Energy</div>
               </div>
               <div className="text-center">
-                <div className="text-2xl text-primary">15+</div>
-                <div className="text-sm text-gray-600">Years Experience</div>
+                <div className="text-2xl text-primary">3,500+</div>
+                <div className="text-sm text-gray-600">Tons Waste Managed Everyday</div>
               </div>
               <div className="text-center">
-                <div className="text-2xl text-primary">98%</div>
-                <div className="text-sm text-gray-600">Client Satisfaction</div>
+                <div className="text-2xl text-primary">1,500 m3</div>
+                <div className="text-sm text-gray-600">Wastewater Leachate Treated</div>
               </div>
             </div>
           </div>
