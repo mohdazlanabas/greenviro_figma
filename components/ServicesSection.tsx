@@ -5,7 +5,7 @@ import { Droplets, Recycle, Zap, Factory, ArrowRight } from 'lucide-react';
 const services = [
   {
     icon: Droplets,
-    title: 'Waste Waster & Leachate',
+    title: 'Waste Water & Leachate Treatment',
     description: 'Advanced wastewater treatment and water filtration systems for industrial and municipal applications.',
     features: ['Industrial Wastewater', 'Leachte Treatment', 'Sewage Treatment', 'Containement Systems']
   },
