@@ -46,8 +46,8 @@ export function AboutSection() {
               </h2>
               
               <p className="text-lg text-gray-600 leading-relaxed">
-                For over 15 years, GreenViro has been at the forefront of environmental innovation, 
-                helping businesses transform their operations with sustainable technologies. Our 
+                For over 10 years, GreenViro has been at the forefront of environmental innovation, 
+                helping businesses and government transform their operations with sustainable technologies. Our 
                 comprehensive solutions have enabled thousands of companies to reduce their 
                 environmental footprint while improving operational efficiency.
               </p>

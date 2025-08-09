@@ -25,8 +25,8 @@ export function HeroSection() {
               
               <p className="text-lg text-gray-600 max-w-lg">
                 Transform your business with cutting-edge environmental technologies. 
-                We provide comprehensive solutions for waste management, water treatment, 
-                and sustainable energy systems.
+                We provide comprehensive solutions for Waste Management, Renewable Energy, 
+                and Waste To Energy solutions.
               </p>
             </div>
 
