@@ -5,17 +5,17 @@ import { ImageWithFallback } from './figma/ImageWithFallback';
 const achievements = [
   {
     icon: Award,
-    title: 'ISO 14001 Certified',
-    description: 'Environmental management system certification'
+    title: 'Certification and Licenses',
+    description: 'Ability to build, operate and transport waste in multiple countries'
   },
   {
     icon: Users,
-    title: '50+ Expert Team',
+    title: 'Design, Engineering, Operations Expert Team',
     description: 'Highly qualified environmental engineers'
   },
   {
     icon: Globe,
-    title: 'Global Presence',
+    title: 'South East Asia Presence',
     description: 'Serving clients across multiple countries'
   }
 ];
