@@ -82,21 +82,7 @@ export function ContactSection() {
               })}
             </div>
 
-            {/* Emergency Contact */}
-            <Card className="bg-gradient-to-br from-red-50 to-orange-50 border-red-200">
-              <CardContent className="p-4">
-                <div className="flex items-start space-x-3">
-                  <div className="w-10 h-10 bg-red-100 rounded-lg flex items-center justify-center flex-shrink-0">
-                    <Phone className="w-5 h-5 text-red-600" />
-                  </div>
-                  <div>
-                    <h4 className="text-sm text-gray-900 mb-1">Emergency Hotline</h4>
-                    <p className="text-red-600 mb-1">+60 3-2181 8888</p>
-                    <p className="text-xs text-gray-600">24/7 Emergency Response</p>
-                  </div>
-                </div>
-              </CardContent>
-            </Card>
+            {/* Removed Emergency Hotline card */}
           </div>
 
           {/* Contact Form */}
