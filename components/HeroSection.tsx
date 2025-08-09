@@ -71,7 +71,7 @@ export function HeroSection() {
           <div className="relative">
             <div className="relative z-10">
               <ImageWithFallback
-                src="../../images/lsspv4.png"
+                src="~/Documents/Pers_CScience_2025/greenviro_figma/images/lsspv4.png"
                 alt="Environmental solutions and sustainability"
                 className="rounded-2xl shadow-2xl w-full h-auto"
               />
