@@ -8,8 +8,8 @@ const contactInfo = [
   {
     icon: Phone,
     title: 'Call Us',
-    content: '+60 3-2181 8000',
-    subtitle: 'Mon-Fri 9AM-6PM'
+    content: '+60 4-5404 424',
+    subtitle: 'Mon-Fri 9AM-4PM'
   },
   {
     icon: Mail,
@@ -26,8 +26,8 @@ const contactInfo = [
   {
     icon: Clock,
     title: 'Business Hours',
-    content: 'Mon-Fri: 9AM-6PM',
-    subtitle: 'Sat: 9AM-1PM'
+    content: 'Mon-Fri: 9AM-4PM',
+    subtitle: 'Schedule an appointment'
   }
 ];
 
