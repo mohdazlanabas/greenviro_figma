@@ -23,7 +23,7 @@ const achievements = [
 const benefits = [
   'Reduce environmental impact and balance carbon emmisions',
   'Achieve regulatory compliance effortlessly',
-  'Finance, Deisgn, Build, Manage, and Operate',
+  'Finance, Design, Build, Manage, and Operate',
   'Cost-effective sustainable solutions',
   'Proven track record with full finanancial and project closures'
 ];
