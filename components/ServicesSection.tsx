@@ -42,8 +42,8 @@ export function ServicesSection() {
             Comprehensive Environmental Solutions
           </h2>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-            From water treatment to renewable energy, we provide end-to-end environmental 
-            solutions that help businesses achieve sustainability goals while ensuring compliance.
+            From landfill management to renewable energy and naturally to Waste To Energy, we provide end-to-end environmental 
+            solutions that help businesses and government achieve sustainability goals while ensuring compliance.
           </p>
         </div>
 
