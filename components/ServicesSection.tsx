@@ -5,21 +5,21 @@ import { Droplets, Recycle, Zap, Factory, ArrowRight } from 'lucide-react';
 const services = [
   {
     icon: Droplets,
-    title: 'Water Treatment',
-    description: 'Advanced wastewater treatment and water purification systems for industrial and municipal applications.',
-    features: ['Industrial Wastewater', 'Drinking Water Purification', 'Sewage Treatment', 'Water Recycling']
+    title: 'Waste Waster & Leachate',
+    description: 'Advanced wastewater treatment and water filtration systems for industrial and municipal applications.',
+    features: ['Industrial Wastewater', 'Leachte Treatment', 'Sewage Treatment', 'Containement Systems']
   },
   {
     icon: Recycle,
     title: 'Waste Management',
-    description: 'Comprehensive waste management solutions including recycling, disposal, and waste-to-energy systems.',
-    features: ['Waste Collection', 'Recycling Programs', 'Hazardous Waste', 'Organic Waste Processing']
+    description: 'Comprehensive waste management solutions including recycling, sorting, and disposal systems.',
+    features: ['Waste Collection', 'Recycling Programs', 'HMunicipal Waste', 'Organic Waste Processing']
   },
   {
     icon: Zap,
     title: 'Renewable Energy',
-    description: 'Sustainable energy solutions including solar, wind, and biomass energy systems for businesses.',
-    features: ['Solar Installation', 'Wind Energy', 'Biomass Systems', 'Energy Storage']
+    description: 'Sustainable energy solutions including solar and biomass energy systems for government and  businesses.',
+    features: ['Solar Installation', 'Biomass Systems', 'Energy Storage']
   },
   {
     icon: Factory,
